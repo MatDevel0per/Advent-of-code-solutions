@@ -1,0 +1,24 @@
+{
+  "name": "advent-of-code-solutions",
+  "version": "1.0.0",
+  "description": "All code and inputs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatDevel0per/Advent-of-code-solutions.git"
+  },
+  "author": "Matthew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatDevel0per/Advent-of-code-solutions/issues"
+  },
+  "homepage": "https://github.com/MatDevel0per/Advent-of-code-solutions#readme",
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "typescript": "^5.3.2"
+  }
+}
